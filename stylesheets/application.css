@@ -1,0 +1,9 @@
+body {
+  background: #000;
+}
+
+#rocket {
+  position: absolute;
+  top: 25%;
+  left: 25%;
+}
