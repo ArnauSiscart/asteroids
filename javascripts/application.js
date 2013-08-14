@@ -171,11 +171,8 @@ function safe_zone() {
 }  
 
 function you_won() {
-$("#show").click(function(){
-  $("#winner").show(1000);
-});
+ $("#winner").fadeIn("fast");
 }
-
 
 
 
